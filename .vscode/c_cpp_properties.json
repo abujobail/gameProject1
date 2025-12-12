@@ -4,7 +4,7 @@
             "name": "Mac",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/Users/mdabujobail/Downloads/SFML-2.6.2/include"
+                "D:\\SFML-2.6.2-windows-gcc-13.1.0-mingw-64-bit\\SFML-2.6.2\\include"
             ],
             "defines": [],
             "macFrameworkPath": [
